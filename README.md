@@ -1,2 +1,1 @@
-# Edz.calcu
-Capstone project
+
